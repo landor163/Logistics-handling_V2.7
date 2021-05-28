@@ -1,0 +1,33 @@
+四路电机驱动接口
+A2	A6
+A3	A7//不对劲
+A4	B0
+A5	B1
+
+
+串口	波特率115200	5V供电
+TX	B10|接串口上的RX
+RX	B11|接串口上的TX
+
+
+红外循迹	5V供电
+B2
+B3
+B4
+B5
+B6
+
+void control()//主要用来给串口看状态
+{
+	switch(status)
+	{
+		case 1 : ;break;
+		case 2 : ;break;
+		case 3 : ;break;
+		case 4 : ;break;
+		case 5 : ;break;
+		case 6 : ;break;
+		default: ;break;
+	}//switch
+
+}
