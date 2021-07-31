@@ -4,7 +4,7 @@
 .\objects\bsp_car_oper.o: ..\User\Find_Num\bsp_Find_Num.h
 .\objects\bsp_car_oper.o: ..\Libraries\CMSIS\stm32f10x.h
 .\objects\bsp_car_oper.o: ..\Libraries\CMSIS\core_cm3.h
-.\objects\bsp_car_oper.o: L:\45Keil5.26\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\bsp_car_oper.o: C:\003_Professional Software\002_Keil MDK-ARM\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\bsp_car_oper.o: ..\Libraries\CMSIS\system_stm32f10x.h
 .\objects\bsp_car_oper.o: ..\User\stm32f10x_conf.h
 .\objects\bsp_car_oper.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -32,5 +32,5 @@
 .\objects\bsp_car_oper.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 .\objects\bsp_car_oper.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
 .\objects\bsp_car_oper.o: ..\User\usart\bsp_usart.h
-.\objects\bsp_car_oper.o: L:\45Keil5.26\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\bsp_car_oper.o: C:\003_Professional Software\002_Keil MDK-ARM\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\bsp_car_oper.o: ..\User\SysTick\bsp_SysTick.h

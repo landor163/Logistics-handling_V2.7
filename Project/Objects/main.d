@@ -1,7 +1,7 @@
 .\objects\main.o: ..\User\main.c
 .\objects\main.o: ..\Libraries\CMSIS\stm32f10x.h
 .\objects\main.o: ..\Libraries\CMSIS\core_cm3.h
-.\objects\main.o: L:\45Keil5.26\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: C:\003_Professional Software\002_Keil MDK-ARM\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\main.o: ..\Libraries\CMSIS\system_stm32f10x.h
 .\objects\main.o: ..\User\stm32f10x_conf.h
 .\objects\main.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -31,7 +31,7 @@
 .\objects\main.o: ..\User\EM_gpio\bsp_em_gpio.h
 .\objects\main.o: ..\User\GeneralTim_3\bsp_GeneralTim_3.h
 .\objects\main.o: ..\User\usart\bsp_usart.h
-.\objects\main.o: L:\45Keil5.26\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\main.o: C:\003_Professional Software\002_Keil MDK-ARM\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\main.o: ..\User\Find_Num\bsp_Find_Num.h
 .\objects\main.o: ..\User\Car_Oper\bsp_Car_Oper.h
 .\objects\main.o: ..\User\SysTick\bsp_SysTick.h

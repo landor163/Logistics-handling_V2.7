@@ -2,7 +2,7 @@
 .\objects\bsp_usart.o: ..\User\usart\bsp_usart.h
 .\objects\bsp_usart.o: ..\Libraries\CMSIS\stm32f10x.h
 .\objects\bsp_usart.o: ..\Libraries\CMSIS\core_cm3.h
-.\objects\bsp_usart.o: L:\45Keil5.26\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\bsp_usart.o: C:\003_Professional Software\002_Keil MDK-ARM\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\bsp_usart.o: ..\Libraries\CMSIS\system_stm32f10x.h
 .\objects\bsp_usart.o: ..\User\stm32f10x_conf.h
 .\objects\bsp_usart.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -29,4 +29,4 @@
 .\objects\bsp_usart.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
 .\objects\bsp_usart.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 .\objects\bsp_usart.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
-.\objects\bsp_usart.o: L:\45Keil5.26\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\bsp_usart.o: C:\003_Professional Software\002_Keil MDK-ARM\ARM\ARMCC\Bin\..\include\stdio.h

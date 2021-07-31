@@ -2,7 +2,7 @@
 .\objects\bsp_systick.o: ..\User\SysTick\bsp_SysTick.h
 .\objects\bsp_systick.o: ..\Libraries\CMSIS\stm32f10x.h
 .\objects\bsp_systick.o: ..\Libraries\CMSIS\core_cm3.h
-.\objects\bsp_systick.o: L:\45Keil5.26\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\bsp_systick.o: C:\003_Professional Software\002_Keil MDK-ARM\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\bsp_systick.o: ..\Libraries\CMSIS\system_stm32f10x.h
 .\objects\bsp_systick.o: ..\User\stm32f10x_conf.h
 .\objects\bsp_systick.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h

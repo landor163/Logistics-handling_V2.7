@@ -1,2 +1,2 @@
 .\objects\core_cm3.o: ..\Libraries\CMSIS\core_cm3.c
-.\objects\core_cm3.o: L:\45Keil5.26\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\core_cm3.o: C:\003_Professional Software\002_Keil MDK-ARM\ARM\ARMCC\Bin\..\include\stdint.h
